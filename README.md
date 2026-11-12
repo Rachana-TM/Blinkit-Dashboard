@@ -68,7 +68,7 @@ The dashboard helps identify:
 
 📷 Dashboard Preview
 
-<!-- Add your dashboard screenshot here -->"Blinkit Sales Dashboard" (dashboard.png)
+![Dashboard Preview](https://github.com/Rachana-TM/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.PNG)
 
 🚀 How to Use
 
