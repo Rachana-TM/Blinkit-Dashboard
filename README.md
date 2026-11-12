@@ -1,7 +1,7 @@
 # Blinkit-Dashboard
-🛒 Blinkit Sales Analysis Dashboard | Power BI
+🛒Blinkit Sales Analysis Dashboard | Power BI
 
-📌 Project Overview
+ Project Overview
 
 This project focuses on analyzing Blinkit's sales performance using Power BI. The dashboard provides interactive visualizations and meaningful insights into sales, product categories, outlet locations, and customer preferences.
 
@@ -77,7 +77,7 @@ The dashboard helps identify:
 3. Interact with the dashboard using the available slicers and visualizations.
 4. Explore sales performance across different categories and outlet locations.
 
-📚 Learning Outcomes
+Learning Outcomes
 
 - Hands-on experience with Power BI.
 - Understanding data cleaning and transformation.
@@ -85,7 +85,7 @@ The dashboard helps identify:
 - Working with DAX measures and KPIs.
 - Communicating business insights through data visualization.
 
-👩‍💻 Author
+Author
 
 Rachana T M
 
